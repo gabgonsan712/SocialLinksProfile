@@ -89,6 +89,7 @@ body {
 #ContentBox #botons .botonLinks:hover {
   background-color: hsl(75, 94%, 57%);
   color: hsl(0, 0%, 20%);
+  transition: background-color 0.5s;
 }
 
 .attribution {
