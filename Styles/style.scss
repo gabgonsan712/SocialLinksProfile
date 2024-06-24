@@ -88,7 +88,7 @@ body{
             font-size: 14px;
             font-weight: 600;
             text-decoration: none;
-            :hover{
+            &:hover{
                 background-color: hsl(75, 94%, 57%);
                 color: hsl(0, 0%, 20%);
             }
