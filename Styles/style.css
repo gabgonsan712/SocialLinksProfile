@@ -70,6 +70,7 @@ body {
   width: 100%;
   flex-direction: column;
   height: auto;
+  row-gap: 10px;
 }
 #ContentBox #botons .botonLinks {
   display: flex;
@@ -79,7 +80,6 @@ body {
   height: 60px;
   border-radius: 10px;
   background-color: hsl(0, 0%, 20%);
-  margin-top: 10px;
   align-items: center;
   color: rgb(255, 255, 255);
   font-size: 14px;
